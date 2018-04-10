@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<data>
+    <tile id="0">
+        <img>tile00.bmp</img>
+        <name>tile de test</name>
+    </tile>
+    <tile id="1">
+        <img>tile01.bmp</img>
+        <name>tile22222</name>
+    </tile>
+</data>
